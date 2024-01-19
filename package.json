@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "run:react": "cd todo_react && npm run dev",
+    "run:react": "cd my_work_react && npm run dev",
     "run:express": "cd my_work_server && npm run dev",
     "run:all": "concurrently \"npm run run:react\" \"npm run run:express\""
   },

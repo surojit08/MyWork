@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MyWork.iml" filepath="$PROJECT_DIR$/.idea/MyWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my_work_react.iml" filepath="$PROJECT_DIR$/my_work_react.iml" />
       <module fileurl="file://$PROJECT_DIR$/my_work_server.iml" filepath="$PROJECT_DIR$/my_work_server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/todo_react.iml" filepath="$PROJECT_DIR$/todo_react.iml" />
     </modules>
   </component>
 </project>
